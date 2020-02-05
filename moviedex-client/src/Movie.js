@@ -26,3 +26,7 @@ function createMovie( props ){
     }
 
 }
+
+
+
+export default Movie;

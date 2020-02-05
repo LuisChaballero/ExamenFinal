@@ -13,7 +13,6 @@ class App extends React.Component {
     
   }
 
-  newMovie = 
 
   
 
@@ -41,6 +40,7 @@ class App extends React.Component {
   render(){
     return (
       <div>
+        
         
         
       </div>
